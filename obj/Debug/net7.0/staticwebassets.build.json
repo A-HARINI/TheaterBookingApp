@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "6SiWhYbl+keWkQrQj38nO7/U83S3BwMCsjPByNDM/tQ=",
+  "Source": "TheatreBookingApp",
+  "BasePath": "_content/TheatreBookingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TheatreBookingApp\\wwwroot",
+      "Source": "TheatreBookingApp",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\",
+      "BasePath": "_content/TheatreBookingApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\4458520d-09e1-4ae9-a25e-f167b758526c_flim.jpg",
+      "SourceId": "TheatreBookingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\",
+      "BasePath": "_content/TheatreBookingApp",
+      "RelativePath": "Images/4458520d-09e1-4ae9-a25e-f167b758526c_flim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4458520d-09e1-4ae9-a25e-f167b758526c_flim.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\f1d66e51-862d-40fe-88d2-902a64ee5802_Flim invoice.png",
+      "SourceId": "TheatreBookingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\",
+      "BasePath": "_content/TheatreBookingApp",
+      "RelativePath": "Images/f1d66e51-862d-40fe-88d2-902a64ee5802_Flim invoice.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f1d66e51-862d-40fe-88d2-902a64ee5802_Flim invoice.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\fdbc6a0c-7a06-4219-a5b3-27eb0f3ce85c_flim.jpg",
+      "SourceId": "TheatreBookingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\",
+      "BasePath": "_content/TheatreBookingApp",
+      "RelativePath": "Images/fdbc6a0c-7a06-4219-a5b3-27eb0f3ce85c_flim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fdbc6a0c-7a06-4219-a5b3-27eb0f3ce85c_flim.jpg"
+    }
+  ]
+}

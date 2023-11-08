@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\4458520d-09e1-4ae9-a25e-f167b758526c_flim.jpg",
+      "PackagePath": "staticwebassets\\Images\\4458520d-09e1-4ae9-a25e-f167b758526c_flim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\f1d66e51-862d-40fe-88d2-902a64ee5802_Flim invoice.png",
+      "PackagePath": "staticwebassets\\Images\\f1d66e51-862d-40fe-88d2-902a64ee5802_Flim invoice.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\FinalAssesmentBookingApp\\TheatreBookingApp\\wwwroot\\Images\\fdbc6a0c-7a06-4219-a5b3-27eb0f3ce85c_flim.jpg",
+      "PackagePath": "staticwebassets\\Images\\fdbc6a0c-7a06-4219-a5b3-27eb0f3ce85c_flim.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TheatreBookingApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TheatreBookingApp.props",
+      "PackagePath": "build\\TheatreBookingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TheatreBookingApp.props",
+      "PackagePath": "buildMultiTargeting\\TheatreBookingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TheatreBookingApp.props",
+      "PackagePath": "buildTransitive\\TheatreBookingApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
